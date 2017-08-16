@@ -1,6 +1,6 @@
 <template>
   <q-layout>
-      <img src="assets/logo.svg" class="responsive"/>
+      Test gf
   </q-layout>
 </template>
 
