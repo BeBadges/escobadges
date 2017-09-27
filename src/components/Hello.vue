@@ -1,12 +1,13 @@
 <template>
   <div class="hello">
     <h5>Welcome to escobadges</h5>
+    <h6>work in progress..</h6>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'hello'
+  name: 'hello',
 }
 </script>
 
