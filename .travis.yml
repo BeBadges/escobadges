@@ -1,6 +1,6 @@
 branches:
   only:
-   - production
+   - master
 language: node_js
 node_js:
  - "7"
