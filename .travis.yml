@@ -13,5 +13,5 @@ cache:
  directories:
    - "node_modules"
 after_success:
- - firebase deploy --token $FIREBASE_TOKEN
+ - firebase deploy --token "$FIREBASE_TOKEN"
  
