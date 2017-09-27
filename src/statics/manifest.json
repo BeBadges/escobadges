@@ -1,6 +1,6 @@
 {
-  "name": "Quasar App",
-  "short_name": "Quasar-PWA",
+  "name": "Escobadges",
+  "short_name": "Escobadges",
   "icons": [
     {
       "src": "/statics/icons/icon-192x192.png",
