@@ -1,0 +1,17 @@
+branches:
+  only:
+   - production
+language: node_js
+node_js:
+ - "7"
+install:
+ - npm install -g firebase-tools
+ - npm install -g quasar-cli
+ - npm install
+ - quasar build
+cache:
+ directories:
+   - "node_modules"
+after_success:
+ - firebase deploy --token $FIREBASE_TOKEN
+ 

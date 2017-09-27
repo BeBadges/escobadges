@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/BeBadges/escobadges.svg?branch=master)](https://travis-ci.org/BeBadges/escobadges)
 # EscoBadges.eu
 
 > A Badge Designer forked from the [Skillid Project](https://github.com/oSoc17/skillid) of Team Domino during [Open Summer of Code 2017 - #oSoc17](http://2017.summerofcode.be/).
