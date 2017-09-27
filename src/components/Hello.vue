@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h5>Welcome to escobadges PWA</h5>
+    <h5>Welcome to escobadges</h5>
   </div>
 </template>
 

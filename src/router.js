@@ -12,7 +12,6 @@ export default new VueRouter({
   mode: 'history',
   routes: [
     { path: '/', component: load('Hello') },
-    
     { path: '*', component: load('Error404') }
   ]
 })
